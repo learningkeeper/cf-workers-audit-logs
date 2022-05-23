@@ -2,6 +2,7 @@ name = "cf-workers-audit-logs"
 workers_dev = true
 type = "javascript"
 
+
 [triggers]
 crons = ["* * * * *"]
 
