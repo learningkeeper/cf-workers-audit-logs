@@ -7,4 +7,4 @@ compatibility_date = "2022-05-23"
 crons = ["* * * * *"]
 
 # uncomment if you are deploying manually
-kv_namespaces = [{binding="KV_AUDIT_LOGS", id="f9c2cf84d75c4eba92797e4125a5797b"}]
+kv_namespaces = [{binding="KV_AUDIT_LOGS", id="your_kv_namespace_id"}]
